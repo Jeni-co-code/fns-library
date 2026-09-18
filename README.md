@@ -139,5 +139,5 @@ src/
   lib/         Funciones que hablan con Supabase (libros, carpetas, archivos)
   contexts/    Estado de sesión del usuario
 supabase/
-  schema.sql   Todo lo que hay que correr en Supabase para crear la base de datos
+  schema.sql   Todo lo que hay que correr en Supabase para crear la base de datosf
 ```
