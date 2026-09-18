@@ -1,0 +1,49 @@
+{
+  "login": {
+    "welcomeBack": "Willkommen zurück",
+    "subtitle": "Melde dich mit deiner E-Mail und deinem Passwort an.",
+    "tagline": "Eine magische Ecke für deine Geschichten.",
+    "google": "Mit Google fortfahren",
+    "or": "oder mit deiner E-Mail",
+    "email": "E-Mail",
+    "password": "Passwort",
+    "forgotPassword": "Passwort vergessen?",
+    "enter": "Anmelden",
+    "entering": "Anmeldung läuft…",
+    "noAccount": "Noch kein Konto?",
+    "createOne": "Jetzt erstellen"
+  },
+  "signup": {
+    "title": "Konto erstellen",
+    "subtitle": "Dauert nur eine Minute.",
+    "name": "Wie heißt du?",
+    "createAccount": "Konto erstellen",
+    "creating": "Wird erstellt…",
+    "haveAccount": "Hast du schon ein Konto?",
+    "signIn": "Hier anmelden"
+  },
+  "sidebar": {
+    "allBooks": "Alle Bücher",
+    "shelves": "Regale",
+    "newShelf": "+ Neues Regal",
+    "manual": "Benutzerhandbuch",
+    "signOut": "Abmelden"
+  },
+  "library": {
+    "search": "Titel oder Autor suchen…",
+    "uploadBook": "+ Buch hochladen",
+    "freeBooks": "🔎 Kostenlose Bücher",
+    "empty": "Diese Ecke ist noch leer.",
+    "loading": "Deine Bibliothek wird geladen…"
+  },
+  "reader": {
+    "backToLibrary": "← Meine Bibliothek",
+    "previous": "← Zurück",
+    "next": "Weiter →",
+    "page": "Seite",
+    "of": "von",
+    "listen": "Anhören",
+    "translate": "Übersetzen",
+    "originalText": "Originaltext anzeigen"
+  }
+}

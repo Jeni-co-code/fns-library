@@ -1,0 +1,49 @@
+{
+  "login": {
+    "welcomeBack": "Welcome back",
+    "subtitle": "Sign in with your email and password.",
+    "tagline": "A magical corner for your stories.",
+    "google": "Continue with Google",
+    "or": "or with your email",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot your password?",
+    "enter": "Sign in",
+    "entering": "Signing in…",
+    "noAccount": "Don't have an account yet?",
+    "createOne": "Create one"
+  },
+  "signup": {
+    "title": "Create your account",
+    "subtitle": "It only takes a minute.",
+    "name": "What's your name?",
+    "createAccount": "Create my account",
+    "creating": "Creating…",
+    "haveAccount": "Already have an account?",
+    "signIn": "Sign in here"
+  },
+  "sidebar": {
+    "allBooks": "All books",
+    "shelves": "Shelves",
+    "newShelf": "+ New shelf",
+    "manual": "User guide",
+    "signOut": "Sign out"
+  },
+  "library": {
+    "search": "Search title or author…",
+    "uploadBook": "+ Upload book",
+    "freeBooks": "🔎 Free books",
+    "empty": "This corner is empty, for now.",
+    "loading": "Loading your library…"
+  },
+  "reader": {
+    "backToLibrary": "← My library",
+    "previous": "← Previous",
+    "next": "Next →",
+    "page": "Page",
+    "of": "of",
+    "listen": "Listen",
+    "translate": "Translate",
+    "originalText": "View original text"
+  }
+}

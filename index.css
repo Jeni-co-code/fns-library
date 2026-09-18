@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html, body, #root {
+    height: 100%;
+  }
+  body {
+    @apply bg-paper-100 text-ink font-body antialiased;
+  }
+  ::selection {
+    @apply bg-marigold-400/40;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-berry-500 hover:bg-berry-600 text-paper-50 font-body font-semibold px-5 py-2.5 rounded-full transition-colors duration-150;
+  }
+  .btn-ghost {
+    @apply bg-transparent hover:bg-nook-800/5 text-ink font-body font-medium px-4 py-2 rounded-full transition-colors duration-150;
+  }
+  .input-field {
+    @apply w-full bg-white border border-nook-900/10 rounded-xl px-4 py-3 font-body text-ink placeholder:text-ink/40 focus:outline-none focus:ring-2 focus:ring-marigold-400/60 transition-shadow;
+  }
+}

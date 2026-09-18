@@ -1,0 +1,49 @@
+{
+  "login": {
+    "welcomeBack": "Bem-vinda de volta",
+    "subtitle": "Entre com seu e-mail e senha.",
+    "tagline": "Um cantinho mágico para suas histórias.",
+    "google": "Continuar com Google",
+    "or": "ou com seu e-mail",
+    "email": "E-mail",
+    "password": "Senha",
+    "forgotPassword": "Esqueceu sua senha?",
+    "enter": "Entrar",
+    "entering": "Entrando…",
+    "noAccount": "Ainda não tem uma conta?",
+    "createOne": "Crie a sua"
+  },
+  "signup": {
+    "title": "Crie sua conta",
+    "subtitle": "Leva só um minuto.",
+    "name": "Qual é o seu nome?",
+    "createAccount": "Criar minha conta",
+    "creating": "Criando…",
+    "haveAccount": "Já tem uma conta?",
+    "signIn": "Entre aqui"
+  },
+  "sidebar": {
+    "allBooks": "Todos os livros",
+    "shelves": "Estantes",
+    "newShelf": "+ Nova estante",
+    "manual": "Manual de uso",
+    "signOut": "Sair"
+  },
+  "library": {
+    "search": "Buscar título ou autor…",
+    "uploadBook": "+ Enviar livro",
+    "freeBooks": "🔎 Livros grátis",
+    "empty": "Este cantinho ainda está vazio.",
+    "loading": "Carregando sua biblioteca…"
+  },
+  "reader": {
+    "backToLibrary": "← Minha biblioteca",
+    "previous": "← Anterior",
+    "next": "Próxima →",
+    "page": "Página",
+    "of": "de",
+    "listen": "Ouvir",
+    "translate": "Traduzir",
+    "originalText": "Ver texto original"
+  }
+}
